@@ -22,25 +22,25 @@ const cocktailLists = [
 	name: "Chapel Hill Shiraz",
 	country: "AU",
 	detail: "Battle",
-	price: "$10",
+	price: "₹149",
  },
  {
 	name: "Caten Malbee",
 	country: "AU",
 	detail: "Battle",
-	price: "$49",
+	price: "₹499",
  },
  {
 	name: "Rhino Pale Ale",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "₹349",
  },
  {
 	name: "Irish Guinness",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "₹299",
  },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
 	name: "Tropical Bloom",
 	country: "US",
 	detail: "Battle",
-	price: "$10",
+	price: "₹799",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
 	detail: "Battle",
-	price: "$49",
+	price: "₹249",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "₹399",
  },
  {
 	name: "Lavender Fizz",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "₹449",
  },
 ];
 
@@ -120,17 +120,17 @@ const socials = [
  {
 	name: "Instagram",
 	icon: "/images/insta.png",
-	url: "#",
+	url: "https://www.instagram.com/",
  },
  {
 	name: "X (Twitter)",
 	icon: "/images/x.png",
-	url: "#",
+	url: "https://x.com/",
  },
  {
 	name: "Facebook",
 	icon: "/images/fb.png",
-	url: "#",
+	url: "https://www.facebook.com/",
  },
 ];
 
