@@ -5,6 +5,7 @@ import React from "react";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
 import Cocktails from "./Components/Cocktails";
+import About from "./Components/About";
 
 const App = ()=>{
   return(
@@ -12,6 +13,7 @@ const App = ()=>{
     <Navbar/>
     <Hero/>
     <Cocktails/>
+    <About/>
    </main>
   );
 }
