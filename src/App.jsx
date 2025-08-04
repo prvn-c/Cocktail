@@ -4,13 +4,14 @@ gsap.registerPlugin(ScrollTrigger , SplitText);
 import React from "react";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
+import Cocktails from "./Components/Cocktails";
 
 const App = ()=>{
   return(
    <main>
     <Navbar/>
     <Hero/>
-    <div className="h-dvh bg-black"></div>
+    <Cocktails/>
    </main>
   );
 }
